@@ -102,6 +102,6 @@ python3 mmap.py --file saved_smaps.txt       # วาดจากไฟล์ ma
 
 โค้ดทั้งหมดในงานนี้ (`parallel.c`, `bench.py`, `plot.py`, `mmap.py`, `demo.c`, Makefile) เขียนโดยใช้ AI coding assistant
 **Claude Code (Anthropic, model Claude Opus 5.5)** เป็นผู้เขียน และ AI ได้รันการทดลอง (`bench.py`, `plot.py`) บนเครื่องของนิสิตด้วย
-นิสิตเป็นผู้ตรวจสอบโค้ดและผลลัพธ์ และเขียนรายงานเอง
+นิสิตเป็นผู้ตรวจสอบโค้ดและผลลัพธ์
 ระหว่างเขียนกราฟใน `plot.py` และหน้า HTML ของ `mmap.py` AI ได้โหลด skill ชื่อ `dataviz` ซึ่งรวมไว้ใน Claude Code (สำเนาอยู่ใน `SKILL.md` ของแต่ละโฟลเดอร์)
-รายละเอียดการใช้ AI อยู่ในรายงานด้วย
+รายละเอียดการใช้ AI ทั้งในส่วนโค้ดและในการจัดทำรายงานอยู่ในส่วนที่ 3 ของรายงาน
